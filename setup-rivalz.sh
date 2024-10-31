@@ -31,5 +31,5 @@ sudo docker container exec -it ubuntu-1  /bin/bash -c "
     [ -s \"\$NVM_DIR/nvm.sh\" ] && . \"\$NVM_DIR/nvm.sh\" && \
     [ -s \"\$NVM_DIR/bash_completion\" ] && . \"\$NVM_DIR/bash_completion\" && \
     nvm install node && \
-    npm i -g rivalz-node-cli@2.6.1
+    npm i -g rivalz-node-cli@2.6.2
 "
