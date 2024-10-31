@@ -4,16 +4,16 @@
 
 ## Pre-Installation
 ```bash
-   sudo apt update
+sudo apt update
 ```
 ```bash
-   sudo apt install docker.io -y
+sudo apt install docker.io -y
 ```
 ```bash
-   sudo apt install docker.io -y
+sudo apt install docker.io -y
 ```
 ```bash
-   sudo docker pull ubuntu:22.04
+sudo docker pull ubuntu:22.04
 ```
 
 ## Installation
@@ -21,29 +21,29 @@
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/fadhilahmadd/rivalz-node.git
+git clone https://github.com/fadhilahmadd/rivalz-node.git
 ```
 
 2. Navigate into the project directory:
 
 ```bash
-   cd rivalz-node
+rivalz-node
 ```
 
 3. Navigate into the project directory:
 
 ```bash
-   cd rivalz-node
+rivalz-node
 ```
 
 4. Change permission:
 
 ```bash
-   sudo chmod +x setup-rivalz.sh
+sudo chmod +x setup-rivalz.sh
 ```
 
 ## Usage
 
 ```bash
-   ./setup-rivalz.sh
+setup-rivalz.sh
 ```
