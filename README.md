@@ -2,7 +2,8 @@
 
 > Created by [fadhil ahmad](x.com/fadhil_ahmadd), let's 🚀 together. 
 
-## Pre-Installation
+Pre-Installation
+
 ```bash
 sudo apt update
 ```
